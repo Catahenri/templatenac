@@ -4,7 +4,7 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 # Nome do projeto
 
-**nome dos alunos: CATARINA HENRIQUES CAMUSSI** 
+**nome dos alunos: CATARINA HENRIQUES CAMUSSI   RM87553** 
 
 **Turma: 2TDSG**
 
