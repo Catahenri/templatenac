@@ -24,7 +24,7 @@ Através da ferramenta do botfather (nativa do telegram), conectei o bot do tele
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
-<img src="/imagem.jpg" width="550">
+<img src="/cp4.png" width="550">
 
 
 ## Como usar 
