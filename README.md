@@ -33,7 +33,8 @@ instalar no arduino a lib ArduinoJson , no node red a lib: node-red dashboard e 
 * Pode ser utilizado marcadores
 * Para ajudar na formatação
 
-## Vídeo no youtube , mostrando funcionamento do servo motor antes de corroper o arqivo .json
+## Vídeo no youtube , mostrando funcionamento do servo motor antes de corroper o arqivo .json   https://youtu.be/H-cWkc-SPF0
+
 
 
 ### Referências 
